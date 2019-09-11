@@ -1,0 +1,17 @@
+
+|squid:S1488Y"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ÿ”£ÿ8Íì†¤Ğ-
+µ%squid:RedundantThrowsDeclarationCheck("}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(Î¿â8»ğ¤Ğ-
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(·Ğ “8»ï¢Ğ-
+nsquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îã¥Üüÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ø¦ˆŞúÿÿÿÿ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ó¾¾Ëşÿÿÿÿ
+isquid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä÷‘½
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(·Ğ “8½½¢Ğ-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ8üñó¢Ğ-
+•squid:S1192!"rDefine a constant instead of duplicating this literal "{\"code\":0,\"msg\":\"\",\"count\":1000,\"data\":" 3 times.(ÙÊÚàşÿÿÿÿ8Íì†¤Ğ-
+wsquid:S1488Q"[Immediately return this expression instead of assigning it to the temporary variable "Res".(Îã¥Üüÿÿÿÿ

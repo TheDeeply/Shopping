@@ -1,0 +1,26 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü×²àüÿÿÿÿ
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(µÍ•ƒ8ê´£Ð-
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Á—ËŽ
+3squid:S1643F"Use a StringBuilder instead.(ØØ²
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(‚ÏëÁ
+^squid:S2095i"GUse try-with-resources or close this "Statement" in a "finally" clause.(íéíù
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ÞŸ²Æ
+esquid:S2095["GUse try-with-resources or close this "Statement" in a "finally" clause.(íéíù8×½·¡Ð-
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Þ÷Áûüÿÿÿÿ
+^squid:S2095B"GUse try-with-resources or close this "Statement" in a "finally" clause.(íéíù
+isquid:S3776+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÁŠßË
+^squid:S2095k"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(«Ä¶Ø
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(éï©¾ÿÿÿÿÿ
+:squid:S1643^"Use a StringBuilder instead.(†Ó»¿8×½·¡Ð-
+?squid:S1643`"Use a StringBuilder instead.(º Üüÿÿÿÿ8×½·¡Ð-
+3squid:S1643E"Use a StringBuilder instead.(†Ó»¿
+8squid:S1643G"Use a StringBuilder instead.(º Üüÿÿÿÿ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ªïÞÄ
+:squid:S1643_"Use a StringBuilder instead.(ØØ²8×½·¡Ð-

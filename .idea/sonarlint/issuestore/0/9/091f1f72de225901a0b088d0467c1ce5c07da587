@@ -1,0 +1,31 @@
+
+Hsquid:S1444"1Make this "public static productList" field final(û¸°¡
+Fsquid:S1444"/Make this "public static phoneList" field final(ÌƒÆ
+Esquid:S1444".Make this "public static bookList" field final(Ò°Ñ
+Esquid:S1444".Make this "public static userList" field final(àó‡Ğ
+@squid:S1444")Make this "public static con" field final(›ã›Ê
+Asquid:S1444"*Make this "public static user" field final(ôŠÙÊ
+Lsquid:S1444"0Make this "public static loginState" field final(ÚÌ®»üÿÿÿÿ
+N
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‰şß6
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¡ŒÓúÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"WMake productList a static final constant or non-public and provide accessors if needed.(û¸°¡
+ƒ"squid:ClassVariableVisibilityCheck"UMake phoneList a static final constant or non-public and provide accessors if needed.(ÌƒÆ
+‚"squid:ClassVariableVisibilityCheck"TMake bookList a static final constant or non-public and provide accessors if needed.(Ò°Ñ
+‚"squid:ClassVariableVisibilityCheck"TMake userList a static final constant or non-public and provide accessors if needed.(àó‡Ğ
+}"squid:ClassVariableVisibilityCheck"OMake con a static final constant or non-public and provide accessors if needed.(›ã›Ê
+~"squid:ClassVariableVisibilityCheck"PMake user a static final constant or non-public and provide accessors if needed.(ôŠÙÊ
+‰"squid:ClassVariableVisibilityCheck"VMake loginState a static final constant or non-public and provide accessors if needed.(ÚÌ®»üÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ñ°Ù®şÿÿÿÿ
+4squid:S2386"Make this member "protected".(û¸°¡
+4squid:S2386"Make this member "protected".(ÌƒÆ
+4squid:S2386"Make this member "protected".(Ò°Ñ
+4squid:S2386"Make this member "protected".(àó‡Ğ
+nsquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›ğ°üÿÿÿÿ
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1148+"#Use a logger to log this exception.(¸ß¹
+?squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S2115(")Add password protection to this database.(¢›ÜŒ

@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="shopping:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/shopping_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="shopping" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="log4j-1.2.14" />
+          <element id="library" level="project" name="mysql-connector-java-5.0.8-bin" />
+          <element id="library" level="project" name="json-lib-2.4-jdk15" />
+          <element id="library" level="project" name="fastjson-1.2.59" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="shopping/web/Web" />
+    </root>
+  </artifact>
+</component>

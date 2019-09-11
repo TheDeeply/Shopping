@@ -1,0 +1,5 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îýþ‰ýÿÿÿÿ
+Bsquid:S1168"+Return an empty collection instead of null.(¥¹ï
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁŠßË
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü×²àüÿÿÿÿ

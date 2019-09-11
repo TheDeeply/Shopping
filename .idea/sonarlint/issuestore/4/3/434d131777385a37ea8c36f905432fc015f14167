@@ -1,0 +1,10 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(†“â¶
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(í½…¾
+@squid:S1125")Remove the literal "false" boolean value.(í½…¾
+Asquid:S1481"*Remove this unused "order" local variable.(ÈÃÖ
+Vsquid:S1854":Remove this useless assignment to local variable "isname".(¼ÑÒıÿÿÿÿ
+Psquid:S1854"9Remove this useless assignment to local variable "order".(ÈÃÖ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü×²àüÿÿÿÿ
